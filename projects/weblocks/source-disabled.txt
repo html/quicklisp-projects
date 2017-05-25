@@ -1,2 +1,2 @@
 mercurial https://bitbucket.org/S11001001/weblocks-dev
-
+git https://github.com/skypher/weblocks.git
