@@ -1,1 +1,0 @@
-git git://github.com/varjagg/cl-tulip-graph.git

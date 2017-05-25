@@ -36,6 +36,7 @@ folio fset
 folio misc-extensions
 
 gbbopen portable-threads
+gbbopen timing-tests
 
 plain-odbc alexandria-tests
 plain-odbc alexandria
@@ -72,3 +73,12 @@ local-package-aliases com.my-company.some-library
 asdf-driver asdf
 asdf-driver generate-asdf
 
+wookie plugin
+
+weblocks weblocks-demo
+
+cl-cffi-gtk lisp-unit
+
+swank-protocol swank-protocol-test
+
+linedit terminfo

@@ -1,2 +1,0 @@
-http http://www.lrde.epita.fr/~didier/software/lisp/declt/latest.tar.gz
-

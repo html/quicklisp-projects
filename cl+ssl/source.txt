@@ -1,1 +1,0 @@
-git git://gitorious.org/cl-plus-ssl/cl-plus-ssl.git

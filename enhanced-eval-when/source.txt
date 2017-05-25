@@ -1,1 +1,0 @@
-http http://www.hexstreamsoft.com/projects/enhanced-eval-when/enhanced-eval-when_latest.tar.gz

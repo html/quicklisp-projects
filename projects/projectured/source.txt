@@ -1,0 +1,2 @@
+branched-git https://github.com/projectured/projectured.git quicklisp
+

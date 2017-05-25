@@ -1,0 +1,2 @@
+git https://github.com/lokedhs/cl-gdata.git
+

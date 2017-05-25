@@ -1,2 +1,0 @@
-git git://github.com/OdonataResearchLLC/lisp-unit.git
-

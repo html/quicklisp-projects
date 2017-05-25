@@ -1,0 +1,2 @@
+branched-git https://github.com/cbaggers/varjo.git release-quicklisp
+

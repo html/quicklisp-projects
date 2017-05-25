@@ -1,1 +1,0 @@
-branched-git git://github.com/kraison/cl-neo4j.git release

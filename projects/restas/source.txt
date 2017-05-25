@@ -1,0 +1,3 @@
+git https://github.com/archimag/restas.git
+tagged-git https://github.com/archimag/restas.git version-0.1.3
+

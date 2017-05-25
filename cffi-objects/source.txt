@@ -1,1 +1,0 @@
-svn svn://common-lisp.net/project/cffi-objects/svn

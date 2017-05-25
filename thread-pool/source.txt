@@ -1,1 +1,0 @@
-git git://github.com/kiuma/thread-pool.git

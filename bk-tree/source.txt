@@ -1,1 +1,0 @@
-git git://github.com/vy/bk-tree.git

@@ -1,1 +1,0 @@
-git http://common-lisp.net/projects/cl-irregsexp/cl-irregsexp.git

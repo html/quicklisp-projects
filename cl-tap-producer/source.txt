@@ -1,1 +1,0 @@
-git git://cl-tap-producer.git.sourceforge.net/gitroot/cl-tap-producer/cl-tap-producer

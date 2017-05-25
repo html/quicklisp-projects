@@ -5,16 +5,23 @@
 /debian/
 {APPNAME}
 /unused/
-/test/
 
 # From common-lisp-stat
 /external/cffi.darcs/
 /external/lift.darcs/
 
-/systems/femlisp.asd
+#/systems/femlisp.asd
 
 /sav/
 
 /1580-frozen/
 
-/folio2/
+# /folio2/
+
+# For fset's Code/fset.asd
+/Code/
+
+/Outdated Demos/
+
+# cl-sat and inline-generic-functions both have this
+asd-generator-data

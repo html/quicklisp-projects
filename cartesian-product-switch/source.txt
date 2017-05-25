@@ -1,1 +1,0 @@
-http http://www.hexstreamsoft.com/projects/cartesian-product-switch/cartesian-product-switch_latest.tar.gz

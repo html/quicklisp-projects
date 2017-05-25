@@ -1,1 +1,0 @@
-git git://github.com/Kalimehtar/advanced-readtable.git

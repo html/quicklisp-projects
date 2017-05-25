@@ -1,1 +1,0 @@
-git git://github.com/Ramarren/cells-gtk3.git

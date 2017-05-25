@@ -1,1 +1,0 @@
-git git://github.com/brown/swank-crew.git

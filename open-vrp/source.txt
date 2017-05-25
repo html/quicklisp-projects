@@ -1,1 +1,0 @@
-git git://github.com/mck-/Open-VRP.git

@@ -1,0 +1,2 @@
+git https://gitlab.common-lisp.net/cl-enumeration/enumerations.git
+

@@ -1,1 +1,0 @@
-git git://github.com/marijnh/ST-JSON.git

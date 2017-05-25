@@ -1,1 +1,0 @@
-git git://github.com/archimag/cl-closure-template.git

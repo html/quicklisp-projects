@@ -1,1 +1,0 @@
-git git://github.com/nikodemus/ec2.git

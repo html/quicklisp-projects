@@ -1,1 +1,0 @@
-git git://github.com/e40/cl-quakeinfo.git

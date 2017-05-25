@@ -1,1 +1,0 @@
-git git://github.com/svenvc/cl-s3.git

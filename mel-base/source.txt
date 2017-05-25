@@ -1,2 +1,0 @@
-git http://pmeta.net/projects/mel-base/mel-base.git
-

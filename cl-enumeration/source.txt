@@ -1,1 +1,0 @@
-cvs-oddmodule :pserver:anonymous:anonymous@common-lisp.net:/project/cl-enumeration/cvsroot enumerations

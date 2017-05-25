@@ -1,1 +1,0 @@
-git git://github.com/michaelw/cl-dot.git

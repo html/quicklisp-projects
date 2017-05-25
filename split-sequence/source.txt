@@ -1,1 +1,0 @@
-https https://github.com/downloads/sharplispers/split-sequence/split-sequence-1.1.tar.gz

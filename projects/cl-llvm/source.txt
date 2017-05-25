@@ -1,0 +1,3 @@
+git https://github.com/sellout/CL-LLVM.git
+branched-git https://github.com/sellout/CL-LLVM.git llvm-2.9
+

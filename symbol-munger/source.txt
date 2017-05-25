@@ -1,1 +1,0 @@
-git git://github.com/AccelerationNet/symbol-munger.git

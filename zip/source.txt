@@ -1,2 +1,0 @@
-cvs :pserver:anonymous:anonymous:anonymous@common-lisp.net:/project/zip/cvsroot
-

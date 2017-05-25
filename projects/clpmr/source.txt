@@ -1,0 +1,2 @@
+http-bz2 http://wcp.sdf-eu.org/software/clpmr-latest.tbz
+

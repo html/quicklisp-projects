@@ -1,1 +1,0 @@
-git git://github.com/Unspeakable/cl-haml.git

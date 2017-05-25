@@ -1,1 +1,0 @@
-git git://common-lisp.net/projects/cl-stomp/cl-stomp.git

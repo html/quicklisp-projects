@@ -1,1 +1,0 @@
-wcpware-http http://wcp.sdf-eu.org/software/sclf-20121127.src.tbz

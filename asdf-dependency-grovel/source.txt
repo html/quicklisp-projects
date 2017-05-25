@@ -1,2 +1,0 @@
-git git://common-lisp.net/projects/xcvb/asdf-dependency-grovel.git
-

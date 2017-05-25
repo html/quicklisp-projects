@@ -1,1 +1,0 @@
-git git://github.com/galdor/m2cl.git

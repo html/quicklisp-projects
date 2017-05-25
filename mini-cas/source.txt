@@ -1,1 +1,0 @@
-git git://gitorious.org/dh-misc/mini-cas.git

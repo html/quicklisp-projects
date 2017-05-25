@@ -1,1 +1,0 @@
-git git://github.com/tpapp/cl-rmath.git

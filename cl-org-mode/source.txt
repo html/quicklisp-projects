@@ -1,1 +1,0 @@
-git http://common-lisp.net/project/cl-org-mode/cl-org-mode.git

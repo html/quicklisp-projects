@@ -1,2 +1,0 @@
-git git://gitorious.org/py-configvalidator/py-configvalidator.git
-

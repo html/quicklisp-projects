@@ -1,1 +1,0 @@
-git git://github.com/hackinghat/cl-mysql.git

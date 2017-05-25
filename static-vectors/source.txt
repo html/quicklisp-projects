@@ -1,1 +1,0 @@
-https https://github.com/downloads/sionescu/static-vectors/static-vectors-1.4.tar.gz

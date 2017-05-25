@@ -1,1 +1,0 @@
-git git://github.com/elliottjohnson/cl-package-locks.git

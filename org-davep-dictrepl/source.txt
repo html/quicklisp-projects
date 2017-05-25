@@ -1,1 +1,0 @@
-git git://github.com/davep/org-davep-dictrepl.git

@@ -1,1 +1,0 @@
-git git://series.git.sourceforge.net/gitroot/series/series

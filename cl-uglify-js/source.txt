@@ -1,1 +1,0 @@
-git git://github.com/mishoo/cl-uglify-js.git

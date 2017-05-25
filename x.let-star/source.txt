@@ -1,1 +1,0 @@
-git git://github.com/ks/X.LET-STAR.git

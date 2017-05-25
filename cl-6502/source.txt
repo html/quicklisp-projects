@@ -1,1 +1,0 @@
-git git://github.com/redline6561/cl-6502.git

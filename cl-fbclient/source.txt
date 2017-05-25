@@ -1,1 +1,0 @@
-git git://github.com/klimenko-serj/cl-fbclient.git
